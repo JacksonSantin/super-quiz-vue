@@ -41,7 +41,7 @@ A seguinte ferramenta foi usada na construção do projeto:
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Markdown: **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
-- Fontes: **[Montserrat](https://fonts.google.com/specimen/Montserra)**
+- Fontes: **[Oswald](https://fonts.google.com/specimen/Oswald)**
 
 ---
 
